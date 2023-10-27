@@ -1,0 +1,87 @@
+{"storyboard" : [{
+"id": "1",
+"title" : "Personalized Reccomendation Engine for Readers",
+"background" : "",
+"storyoverlay":"images/schoolastic/Image_bg.jpg",
+"textcolor":"#ffffff",
+"navmenucolor":"#e81111" ,
+"ivm":"",
+"opptsketch":"",
+"pptlink":"",
+"pdflink":"",
+"businessvalue":"",
+"impactchecklist":"",
+"prototypevideo":"",
+"customer": "Schoolastic",
+"created" : "Oct. 26 2023",
+"createdby" : "Chip Baber",
+"video" : "https://id9ju5cntedk.objectstorage.us-ashburn-1.oci.customer-oci.com/p/2yZY8CNVMXLv_UMeCyu7Q1l9_BC_zrJ0mfjWdO20wY9HaTg9U0FCopXcwzFC2baX/n/id9ju5cntedk/b/Schoolastic/o/Scholastic_WIP_03.mp4",
+"storyframes" : [
+  {
+    "text": "Emily, a 4th grader with a head full of dreams and a heart full of curiosity, had always found solace in the pages of books. Yet, despite her love for reading, there was a constant struggle.",
+    "image": "images/schoolastic/Image_01.jpg"
+  },
+  {
+    "text": "She often stood in front of the library shelves, overwhelmed by the sea of books with no idea where to start. Some were too easy, and others were too hard. Emily felt like she was lost in a maze of words.",
+    "image": "images/schoolastic/Image_02.jpg"
+  },
+  {
+    "text": "One day, her teacher announces an upcoming book fair \"Class, we're going to the annual book fair in the school library!\" Emily sighed, her reluctance apparent. ",
+    "image": "images/schoolastic/Image_03.jpg"
+  },
+  {
+    "text": "\"Do I have to? I never find books I like there.\" Her teacher smiles reassuringly. \"This time might be different. They have a new technology that recommends books just for you.\"",
+    "image": "images/schoolastic/Image_04.jpg"
+  },
+  {
+    "text": "Curiosity piqued, Emily followed her teacher and class to the book fair and watches with mild interest as people milled around, discussing their favorite books.",
+    "image": "images/schoolastic/Image_05.jpg"
+  },
+  {
+    "text": "The fair was buzzing with excitement. ",
+    "image": "images/schoolastic/Image_06.jpg"
+  },
+  {
+    "text": "As Emily browsed the shelves, a friendly librarian named Mr. Jenkins approached her. \"Hello, Emily! I have something special for you.\" ",
+    "image": "images/schoolastic/Image_07.jpg"
+  },
+  {
+    "text": "Emily raised an eyebrow as Mrs. Jenkins handed her a tablet with an app open on the screen. \"This app,\" Mrs. Jenkins explains, \"uses a special technology that considers your interests and reading level to recommend books tailored just for you.\" ",
+    "image": "images/schoolastic/Image_08.jpg"
+  },
+  {
+    "text": "After answering a few questions about her favorite genres, hobbies, and what kind of stories she enjoyed. ",
+    "image": "images/schoolastic/Image_09.jpg"
+  },
+  {
+    "text": "The app worked its magic, processing her responses.Moments later, a list of book recommendations appeared on the screen and it guided her to there location at the book fair. ",
+    "image": "images/schoolastic/Image_010.jpg"
+  },
+  {
+    "text": "Emily's eyes widened as she saw titles and covers that genuinely interested her. There were mysteries, adventures, and even a book about a young explorer just like her.",
+    "image": "images/schoolastic/Image_011.jpg"
+  },
+  {
+    "text": "Emily left the library that day with a backpack full of books and a rekindled love for book fairs. ",
+    "image": "images/schoolastic/wip.jpg"
+  },
+  {
+    "text": "Thanks to the technology that provided personalized recommendations, Emily had unlocked a treasure trove of stories, and her reading journey was filled with excitement and wonder.",
+    "image": "images/schoolastic/wip.jpg"
+  }
+  ],
+"architecture": [
+                {
+                    "text" : "Add Architecture Text 1",
+                    "image" : "images/schoolastic/wip.jpg"
+                },
+                {
+                  "text" : "Add Architecture Text 1",
+                  "image" : "images/schoolastic/wip.jpg"
+                }
+  ],
+"prototype": []
+}]
+
+
+}
