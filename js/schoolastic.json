@@ -80,12 +80,24 @@
   ],
 "architecture": [
                 {
-                    "text" : "Add Architecture Text 1",
-                    "image" : "images/schoolastic/wip.jpg"
+                    "text" : "As Emily enters her age, interests, and reading level into a tablet the information is passed to a Cloud Native mobile application built with Graal VM, Helidon, Java, or your choice of application development technologies. The application leverages secure API’s that access the recommendation engine. OCI’s API Gateway is a fully managed regional API Gateway service that provides protected RESTful API endpoints.",
+                    "image" : "images/schoolastic/Slide3.jpg"
                 },
                 {
-                  "text" : "Add Architecture Text 1",
-                  "image" : "images/schoolastic/wip.jpg"
+                  "text" : "The recommendation engine is developed inside OCI Functions. Functions provides a serverless platform for developing the search logic using a variety of programming languages including Python, Go, Java, Node and C#.  In our story Functions evaluates Emily’s preferences and provides a means for the search and display of the books tailored to her likes in the mobile application.",
+                  "image" : "images/schoolastic/Slide4.jpg"
+                },
+                {
+                  "text" : "The data is pulled from an Autonomous Data Warehouse (ADW). ADW is fully managed database environment that scales elastically, delivers fast query performance, and requires no database administration. It works directly with the Artificial Intelligence Language service. The AI Language service will match Emily’s interest against the Book Details to find age-appropriate recommendations for her.  Book Reviews from various sources including social media will be analyzed and enhanced with AI sentiment analytics to provide the best book choices tailored specifically for her.",
+                  "image" : "images/schoolastic/Slide5.jpg"
+                },
+                {
+                  "text" : "The platform has pre-gathered data from multiple sources including Bookfairs Inventory, Book Details, and Book Reviews leveraging Oracle Integration Cloud. Oracle Integration Cloud connects any application and data source using prebuilt adapters and low-code configurations.",
+                  "image" : "images/schoolastic/Slide6.jpg"
+                },
+                {
+                  "text" : " ",
+                  "image" : "images/schoolastic/Slide7.jpg"
                 }
   ],
 "prototype": []
